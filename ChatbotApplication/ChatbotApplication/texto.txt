@@ -1,0 +1,6 @@
+mensaje_recibido=2
+id_wa=wamid.HBgLNTY5NjEyNjM4ODkVAgASGBYzRUIwOUVGRjVBOUE1OUEwOEIyQTNBAA==
+telefono_wa=56961263889
+respuesta=Entraste a Soporte. Elige una opción:
+2.1) Incidencias
+2.2) Contacto
