@@ -65,9 +65,7 @@ namespace ChatbotApplication.Controllers
 
                 string respuesta = "";
 
-                // =========================
-                // 🔴 SALIR GLOBAL
-                // =========================
+                
                 if (mensajeRecibido == "0" || mensajeRecibido == "salir")
                 {
                     _estadoUsuario.Remove(telefonoWa);
@@ -77,9 +75,7 @@ namespace ChatbotApplication.Controllers
                     return Ok();
                 }
 
-                // =========================
-                // 🔍 DETECTAR RUT
-                // =========================
+                //Detectar Rut
                 var rutExtraido = RutChileno.ExtraerRut(mensajeRecibido);
 
                 bool pareceRut = System.Text.RegularExpressions.Regex.IsMatch(
@@ -124,9 +120,7 @@ namespace ChatbotApplication.Controllers
                 }
                 else
                 {
-                    // =========================
-                    // 🧠 FLUJO DE MENÚ
-                    // =========================
+                    //Menu
                     string estado = _estadoUsuario.ContainsKey(telefonoWa)
                         ? _estadoUsuario[telefonoWa]
                         : "inicio";

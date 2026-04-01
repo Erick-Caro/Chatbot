@@ -1,8 +1,5 @@
 ! version = 2.0
 
-// =====================
-// INICIO
-// =====================
 + hola
 - Hola 👋, por favor digita tu RUT
 
@@ -12,31 +9,21 @@
 + buenas
 @ hola
 
-// =====================
-// MENÚ PRINCIPAL
-// =====================
 + menu
 - Bienvenido.\n1) Ventas\n2) Soporte\n0) Salir
 
 + inicio
 @ menu
 
-// =====================
-// VENTAS
-// =====================
 + ventas
 - Ventas:\n1) Productos\n2) Precios\n9) Volver\n0) Salir
 
-// 👇 IMPORTANTE: USAMOS CONTEXTO MANUAL (palabras)
 + 1 ventas
 - Productos:\n1) Ver catálogo\n2) Stock\n9) Volver\n0) Salir
 
 + 2 ventas
 - Precios:\n1) Lista\n2) Cotización\n9) Volver\n0) Salir
 
-// =====================
-// SOPORTE
-// =====================
 + soporte
 - Soporte:\n1) Incidencias\n2) Contacto\n9) Volver\n0) Salir
 
@@ -46,18 +33,12 @@
 + 2 soporte
 - Contacto:\n1) Horario\n2) Ejecutivo\n9) Volver\n0) Salir
 
-// =====================
-// ACCESO PRINCIPAL
-// =====================
 + 1
 - {topic=ventas}Ventas:\n1) Productos\n2) Precios\n9) Volver\n0) Salir
 
 + 2
 - {topic=soporte}Soporte:\n1) Incidencias\n2) Contacto\n9) Volver\n0) Salir
 
-// =====================
-// OPCIONES GENERALES
-// =====================
 + 9
 - {topic=random}Volviendo al menú principal...\nmenu
 
@@ -67,8 +48,5 @@
 + salir
 - Gracias por contactarnos 👋
 
-// =====================
-// FALLBACK
-// =====================
 + *
 - No entendí tu mensaje.\nEscribe menu para comenzar o 0 para salir.
