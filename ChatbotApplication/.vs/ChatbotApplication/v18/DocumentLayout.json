@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|c:\\users\\erick\\onedrive\\escritorio\\chatbot\\chatbot\\chatbotapplication\\chatbotapplication\\controllers\\recibircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|solutionrelative:chatbotapplication\\controllers\\recibircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|c:\\users\\erick\\onedrive\\escritorio\\chatbot\\chatbot\\chatbotapplication\\chatbotapplication\\guia.rive||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|solutionrelative:chatbotapplication\\guia.rive||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|c:\\users\\erick\\onedrive\\escritorio\\chatbot\\chatbot\\chatbotapplication\\chatbotapplication\\controllers\\enviacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|solutionrelative:chatbotapplication\\controllers\\enviacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|c:\\users\\erick\\onedrive\\escritorio\\chatbot\\chatbot\\chatbotapplication\\chatbotapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|solutionrelative:chatbotapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|c:\\users\\erick\\onedrive\\escritorio\\chatbot\\chatbot\\chatbotapplication\\chatbotapplication\\controllers\\recibircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|solutionrelative:chatbotapplication\\controllers\\recibircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|c:\\users\\erick\\onedrive\\escritorio\\chatbot\\chatbot\\chatbotapplication\\chatbotapplication\\guia.rive||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|solutionrelative:chatbotapplication\\guia.rive||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDA72D25-6DF8-40E5-ACE6-169F9A1B221E}|ChatbotApplication\\ChatbotApplication.csproj|c:\\users\\erick\\onedrive\\escritorio\\chatbot\\chatbot\\chatbotapplication\\chatbotapplication\\utility\\rutchileno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RutChileno.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\Utility\\RutChileno.cs",
-              "RelativeDocumentMoniker": "ChatbotApplication\\Utility\\RutChileno.cs",
-              "ToolTip": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\Utility\\RutChileno.cs",
-              "RelativeToolTip": "ChatbotApplication\\Utility\\RutChileno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T01:03:40.173Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -67,8 +54,7 @@
               "RelativeToolTip": "ChatbotApplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T00:50:43.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T00:50:43.966Z"
             },
             {
               "$type": "Document",
@@ -80,25 +66,24 @@
               "RelativeToolTip": "ChatbotApplication\\ApiClient\\UsuarioApiClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T00:50:22.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T00:50:22.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\appsettings.json",
               "RelativeDocumentMoniker": "ChatbotApplication\\appsettings.json",
               "ToolTip": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\appsettings.json",
               "RelativeToolTip": "ChatbotApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AQAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-30T22:40:35.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RecibirController.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\Controllers\\RecibirController.cs",
               "RelativeDocumentMoniker": "ChatbotApplication\\Controllers\\RecibirController.cs",
@@ -111,20 +96,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "RutChileno.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\Utility\\RutChileno.cs",
+              "RelativeDocumentMoniker": "ChatbotApplication\\Utility\\RutChileno.cs",
+              "ToolTip": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\Utility\\RutChileno.cs",
+              "RelativeToolTip": "ChatbotApplication\\Utility\\RutChileno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:03:40.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "EnviaController.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\Controllers\\EnviaController.cs",
               "RelativeDocumentMoniker": "ChatbotApplication\\Controllers\\EnviaController.cs",
               "ToolTip": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\Controllers\\EnviaController.cs",
               "RelativeToolTip": "ChatbotApplication\\Controllers\\EnviaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABHAQAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T22:01:03.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "guia.rive",
               "DocumentMoniker": "C:\\Users\\Erick\\OneDrive\\Escritorio\\ChatBot\\Chatbot\\ChatbotApplication\\ChatbotApplication\\guia.rive",
               "RelativeDocumentMoniker": "ChatbotApplication\\guia.rive",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "ChatbotApplication\\guia.rive",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-30T02:11:38.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T02:11:38.322Z"
             },
             {
               "$type": "Document",
@@ -145,8 +141,7 @@
               "RelativeToolTip": "ChatbotApplication\\Models\\Datos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T22:01:03.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T22:01:03.428Z"
             }
           ]
         }
