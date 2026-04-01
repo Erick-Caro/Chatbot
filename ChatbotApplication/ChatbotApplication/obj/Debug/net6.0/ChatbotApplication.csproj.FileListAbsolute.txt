@@ -34,3 +34,41 @@ C:\Users\Claudio Aravena\source\repos\ChatbotApplication\ChatbotApplication\obj\
 C:\Users\Claudio Aravena\source\repos\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.genruntimeconfig.cache
 C:\Users\Claudio Aravena\source\repos\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ref\ChatbotApplication.dll
 C:\Users\Claudio Aravena\source\repos\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\RiveScript.dll
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\ChatbotApplication.staticwebassets.endpoints.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\ChatbotApplication.exe
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\ChatbotApplication.deps.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\ChatbotApplication.runtimeconfig.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\ChatbotApplication.dll
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\ChatbotApplication.pdb
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\RiveScript.dll
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.csproj.AssemblyReference.cache
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.AssemblyInfoInputs.cache
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.AssemblyInfo.cs
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.sourcelink.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\scopedcss\bundle\ChatbotApplication.styles.css
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\swae.build.ex.cache
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotA.1F4B46B3.Up2Date
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.dll
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\refint\ChatbotApplication.dll
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.pdb
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ChatbotApplication.genruntimeconfig.cache
+C:\Users\Erick\OneDrive\Escritorio\ChatBot\Chatbot\ChatbotApplication\ChatbotApplication\obj\Debug\net6.0\ref\ChatbotApplication.dll

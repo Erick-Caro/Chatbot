@@ -1,0 +1,8 @@
+mensaje_recibido=1
+mensaje_normalizado=1
+telefono_wa=56961263889
+respuesta=Ventas:
+1) Productos
+2) Precios
+9) Volver
+0) Salir

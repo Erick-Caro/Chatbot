@@ -14,9 +14,9 @@ namespace ChatbotApplication.Controllers
             //RECIBIMOS LOS PARAMETROS QUE NOS ENVIA WHATSAPP PARA VALIDAR NUESTRA URL
             public async Task enviaAsync()
             {
-                string token = "EAALosUMDcQMBRFF0VvTfzs1JfBDeyAT5p1yLtahGX3pKSsMZCwWQaVSiP25ZA52ZAjZAfnRZAmEck4xfuuxEST1YOiXksQDQg1dr6dK891M1kC8iIzBZCwRlu4xctK8ZCbXhZBCwq4EfzTB1WCg0eKcpgq8Y6gcM2zqI1KEuj6gFUhigLAYLQ0avtuZBp2W9luQwDugxMjDhuBZAFlCMa79HpzrcHKCUZBLRr3VJyxlEENV8dOMTZAR9QZBktZALGriaFWE34CdBxMFWYXbcbuTGEdclbRAwZDZD";
+                string token = "EAAXOTAid8UEBRKr1URYOqy9vZAqXXE7NgtmDP1HZAzWuHtfVBaM4E6NninsDBAyOBQpDLYvZAyHOWgU36dZCbnF3ZCCPXqZAlalItJEQJqCZAdVH4ryYjHiRaPc9EPXOiTg0cnUCYzPKoc2XvrPDmDJDyZBlXHZAyZCzn9sbtZBOIoME91GyZBjxNy94ZB7pdGjfXeZBw0S1ZBDb1UaMsZBOg6xTBH5MYAZBTDEwZBbUSJ0ZCdlFlQrjV5L4iOxQvdYMmZC4jmnvVnXbGHM0Ags8ZA6SK70rwzZBRL";
                 //Identificador de número de teléfono
-                string idTelefono = "965351430004754";
+                string idTelefono = "1053459377850656";
                 //Nuestro telefono
                 string telefono = "56961263889";
                 HttpClient client = new HttpClient();

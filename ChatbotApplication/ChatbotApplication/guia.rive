@@ -1,97 +1,74 @@
 ! version = 2.0
 
+// =====================
+// INICIO
+// =====================
 + hola
-@ menu
-
-+ hola!
-@ menu
+- Hola 👋, por favor digita tu RUT
 
 + hi
-@ menu
-
-+ hello
-@ menu
+@ hola
 
 + buenas
-@ menu
+@ hola
 
-+ buenas tardes
-@ menu
-
-+ buenas noches
-@ menu
-
+// =====================
+// MENÚ PRINCIPAL
+// =====================
 + menu
-- Hola 👋 Bienvenido. Elige una opción:\n1) Ventas\n2) Soporte
+- Bienvenido.\n1) Ventas\n2) Soporte\n0) Salir
 
 + inicio
 @ menu
 
-+ 1
-- Entraste a Ventas. Elige una opción:\n1.1) Productos\n1.2) Precios
-
+// =====================
+// VENTAS
+// =====================
 + ventas
-@ 1
+- Ventas:\n1) Productos\n2) Precios\n9) Volver\n0) Salir
+
+// 👇 IMPORTANTE: USAMOS CONTEXTO MANUAL (palabras)
++ 1 ventas
+- Productos:\n1) Ver catálogo\n2) Stock\n9) Volver\n0) Salir
+
++ 2 ventas
+- Precios:\n1) Lista\n2) Cotización\n9) Volver\n0) Salir
+
+// =====================
+// SOPORTE
+// =====================
++ soporte
+- Soporte:\n1) Incidencias\n2) Contacto\n9) Volver\n0) Salir
+
++ 1 soporte
+- Incidencias:\n1) Reportar\n2) Estado\n9) Volver\n0) Salir
+
++ 2 soporte
+- Contacto:\n1) Horario\n2) Ejecutivo\n9) Volver\n0) Salir
+
+// =====================
+// ACCESO PRINCIPAL
+// =====================
++ 1
+- {topic=ventas}Ventas:\n1) Productos\n2) Precios\n9) Volver\n0) Salir
 
 + 2
-- Entraste a Soporte. Elige una opción:\n2.1) Incidencias\n2.2) Contacto
+- {topic=soporte}Soporte:\n1) Incidencias\n2) Contacto\n9) Volver\n0) Salir
 
-+ soporte
-@ 2
+// =====================
+// OPCIONES GENERALES
+// =====================
++ 9
+- {topic=random}Volviendo al menú principal...\nmenu
 
-+ 1.1
-- Productos. Elige una opción:\n1.1.1) Ver catálogo\n1.1.2) Consultar stock
-
-+ productos
-@ 1.1
-
-+ 1.2
-- Precios. Elige una opción:\n1.2.1) Ver lista de precios\n1.2.2) Solicitar cotización
-
-+ precios
-@ 1.2
-
-+ 2.1
-- Incidencias. Elige una opción:\n2.1.1) Reportar problema\n2.1.2) Revisar estado de ticket
-
-+ incidencias
-@ 2.1
-
-+ 2.2
-- Contacto. Elige una opción:\n2.2.1) Horario de atención\n2.2.2) Hablar con ejecutivo
-
-+ contacto
-@ 2.2
-
-+ 1.1.1
-- Puedes revisar nuestro catálogo en el sitio web.\nEscribe menu para volver al inicio.
-
-+ 1.1.2
-- Para consultar stock, indícanos el código del producto.\nEscribe menu para volver al inicio.
-
-+ 1.2.1
-- La lista de precios vigente se entrega por canal oficial.\nEscribe menu para volver al inicio.
-
-+ 1.2.2
-- Para solicitar cotización, envía nombre, empresa y producto de interés.\nEscribe menu para volver al inicio.
-
-+ 2.1.1
-- Para reportar un problema, indica sistema, error y detalle.\nEscribe menu para volver al inicio.
-
-+ 2.1.2
-- Para revisar el estado de tu ticket, envíanos el número de caso.\nEscribe menu para volver al inicio.
-
-+ 2.2.1
-- Nuestro horario de atención es de lunes a viernes de 09:00 a 18:00.\nEscribe menu para volver al inicio.
-
-+ 2.2.2
-- Un ejecutivo te contactará a la brevedad.\nEscribe menu para volver al inicio.
-
-+ adios
++ 0
 - Gracias por contactarnos 👋
 
 + salir
 - Gracias por contactarnos 👋
 
+// =====================
+// FALLBACK
+// =====================
 + *
-- No entendí tu mensaje.\nEscribe menu para volver al inicio.
+- No entendí tu mensaje.\nEscribe menu para comenzar o 0 para salir.
